@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{D62E05E0-0B52-4772-BF44-9FE863D74AD6}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="StackUsingLinkedList/Node.cs">
+    <Files>
+      <File FileName="DataStructureDemo/Program.cs" />
+      <File FileName="DataStructureDemo/LinkedList.cs" Line="1" Column="1" />
+      <File FileName="DataStructureDemo/Node.cs" Line="7" Column="26" />
+      <File FileName="StackUsingLinkedList/Program.cs" Line="17" Column="27" />
+      <File FileName="StackUsingLinkedList/LinkedListStack.cs" Line="1" Column="14" />
+      <File FileName="StackUsingLinkedList/Node.cs" Line="1" Column="1" />
+      <File FileName="QueueUsingLinkedList/Program.cs" Line="13" Column="27" />
+      <File FileName="QueueUsingLinkedList/Node.cs" Line="1" Column="1" />
+      <File FileName="QueueUsingLinkedList/LinkedListQueue.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DataStructureDemo" expanded="True">
+            <Node name="DataStructureDemo" expanded="True" />
+            <Node name="QueueUsingLinkedList" expanded="True" />
+            <Node name="StackUsingLinkedList" expanded="True">
+              <Node name="LinkedListStack.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DataStructureDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.StackUsingLinkedList FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.QueueUsingLinkedList FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
