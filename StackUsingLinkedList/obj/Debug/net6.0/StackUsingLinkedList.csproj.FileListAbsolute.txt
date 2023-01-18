@@ -1,0 +1,15 @@
+/Users/piyushshaw/Projects/DataStructureDemo/StackUsingLinkedList/bin/Debug/net6.0/StackUsingLinkedList
+/Users/piyushshaw/Projects/DataStructureDemo/StackUsingLinkedList/bin/Debug/net6.0/StackUsingLinkedList.deps.json
+/Users/piyushshaw/Projects/DataStructureDemo/StackUsingLinkedList/bin/Debug/net6.0/StackUsingLinkedList.runtimeconfig.json
+/Users/piyushshaw/Projects/DataStructureDemo/StackUsingLinkedList/bin/Debug/net6.0/StackUsingLinkedList.dll
+/Users/piyushshaw/Projects/DataStructureDemo/StackUsingLinkedList/bin/Debug/net6.0/StackUsingLinkedList.pdb
+/Users/piyushshaw/Projects/DataStructureDemo/StackUsingLinkedList/obj/Debug/net6.0/StackUsingLinkedList.csproj.AssemblyReference.cache
+/Users/piyushshaw/Projects/DataStructureDemo/StackUsingLinkedList/obj/Debug/net6.0/StackUsingLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/piyushshaw/Projects/DataStructureDemo/StackUsingLinkedList/obj/Debug/net6.0/StackUsingLinkedList.AssemblyInfoInputs.cache
+/Users/piyushshaw/Projects/DataStructureDemo/StackUsingLinkedList/obj/Debug/net6.0/StackUsingLinkedList.AssemblyInfo.cs
+/Users/piyushshaw/Projects/DataStructureDemo/StackUsingLinkedList/obj/Debug/net6.0/StackUsingLinkedList.csproj.CoreCompileInputs.cache
+/Users/piyushshaw/Projects/DataStructureDemo/StackUsingLinkedList/obj/Debug/net6.0/StackUsingLinkedList.dll
+/Users/piyushshaw/Projects/DataStructureDemo/StackUsingLinkedList/obj/Debug/net6.0/refint/StackUsingLinkedList.dll
+/Users/piyushshaw/Projects/DataStructureDemo/StackUsingLinkedList/obj/Debug/net6.0/StackUsingLinkedList.pdb
+/Users/piyushshaw/Projects/DataStructureDemo/StackUsingLinkedList/obj/Debug/net6.0/StackUsingLinkedList.genruntimeconfig.cache
+/Users/piyushshaw/Projects/DataStructureDemo/StackUsingLinkedList/obj/Debug/net6.0/ref/StackUsingLinkedList.dll
